@@ -1,0 +1,42 @@
+{
+  "lib1": {
+    "Sample": "lib1",
+    "R1": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib1_S1_R1_001.fastq.gz",
+    "R2": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib1_S1_R2_001.fastq.gz"
+  },
+  "lib2": {
+    "Sample": "lib2",
+    "R1": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib2_S2_R1_001.fastq.gz",
+    "R2": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib2_S2_R2_001.fastq.gz"
+  },
+  "lib3": {
+    "Sample": "lib3",
+    "R1": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib3_S3_R1_001.fastq.gz",
+    "R2": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib3_S3_R2_001.fastq.gz"
+  },
+  "lib4": {
+    "Sample": "lib4",
+    "R1": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib4_S4_R1_001.fastq.gz",
+    "R2": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib4_S4_R2_001.fastq.gz"
+  },
+  "lib5": {
+    "Sample": "lib5",
+    "R1": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib5_S5_R1_001.fastq.gz",
+    "R2": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib5_S5_R2_001.fastq.gz"
+  },
+  "lib6": {
+    "Sample": "lib6",
+    "R1": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib6_S6_R1_001.fastq.gz",
+    "R2": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib6_S6_R2_001.fastq.gz"
+  },
+  "lib7": {
+    "Sample": "lib7",
+    "R1": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib7_S7_R1_001.fastq.gz",
+    "R2": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib7_S7_R2_001.fastq.gz"
+  },
+  "lib8": {
+    "Sample": "lib8",
+    "R1": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib8_S8_R1_001.fastq.gz",
+    "R2": "/dataOS/wenxingzhao/Lab_sequencing/Lab_miniseq_processed/Z_sciMARGI_human_brain_lib2_08032022/processed_fastq/H1_E14_lib8_S8_R2_001.fastq.gz"
+  }
+}

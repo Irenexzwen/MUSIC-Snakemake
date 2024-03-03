@@ -1,0 +1,24 @@
+SAMPLES_JSON: './samples.json'
+
+# softwares
+python3: "/path/to/python3"
+cutadapt: "/path/to/cutadapt"
+bwa: "/path/to/bwa"
+samtools: "/path/to/samtools"
+bowtie2: "/path/to/bowtie2"
+bowtie2-build: "/path/to/bowtie2-build"
+sambamba: "/path/to/sambamba"
+Rscript: "/path/to/Rscript"
+
+# reference genome
+gtf: "/path/to/gtf"  
+fasta: "/path/to/fasta"        
+
+# output directories 
+dir_names:
+        decode_dir: "outputs/1_decode/" 
+        mapped_DNA_dir: "outputs/2_DNAmapping/"
+        mapped_RNA_dir: "outputs/3_RNAmapping/"
+        dedup_dir: "outputs/4_dedup/"
+        merge_dir: "outputs/5_merge/"
+        stats_dir: "outputs/6_stats/"
